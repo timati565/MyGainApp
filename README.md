@@ -1,7 +1,4 @@
 
----
-
-## 📘 2. README для HealthTracker (iOS-трекер питания и тренировок)
 
 
 # 💪 MyGainApp — трекер питания и тренировок для iOS
@@ -37,4 +34,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/timati565/healthtracker.git
+git clone https://github.com/timati565/MyGainApp.git
